@@ -1,0 +1,13 @@
+@mixin dis-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+@mixin space-btw {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+    
+}
